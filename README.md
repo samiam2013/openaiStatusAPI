@@ -1,6 +1,6 @@
 # OpenAI Status API Golang Client
 
-unofficial Golang support for the openAI API's Status Page's API 
+unofficial Golang support for the OpenAI Platform's Status Page's API 
 
 starting with the components endpoint only, this API doesn't require
 any key, so it's easy enough to just import a module (like this one) 
